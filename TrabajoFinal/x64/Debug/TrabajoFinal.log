@@ -1,0 +1,8 @@
+﻿  Juego.cpp
+D:\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinal\Juego.cpp(58,23): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinal\Juego.cpp(59,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinal\Juego.cpp(131,25): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Background.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinal.vcxproj -> D:\TrabajoFinal-main\TrabajoFinal-main\x64\Debug\TrabajoFinal.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
